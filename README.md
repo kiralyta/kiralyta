@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @kiralyta from Hungary
-- 👀 I’m interested in Laravel, Vue.js and Ionic framework
+- 👀 I’m interested in Laravel and Vue.js
 
